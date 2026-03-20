@@ -1,8 +1,8 @@
-# Swinga Bazaar
+# Swinga
 
-**Borrow from neighbors. Rent from local businesses. Free for everyone.**
+**Borrow from neighbors. Rent from local businesses.**
 
-Swinga is a platform cooperative (ekonomisk förening) building community-powered sharing infrastructure. Borrow tools, sports gear, kids' stuff and more from people nearby — or rent from local businesses and organizations.
+Swinga is a platform cooperative building community-powered sharing infrastructure. Borrow tools, sports gear, kids' stuff and more from people nearby — or rent from local businesses and organizations.
 
 - Free for individuals, always
 - Cooperative ownership — users are members, not products
